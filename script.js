@@ -12,6 +12,7 @@ grades.pop();
 // طبّق الخطوة 5 في أسفل هذا الكومنت
 grades.push(99);
 // طبّق الخطوة 6 أسفل  هذا الكومنت
+
 //grades.forEach((grade) => {
 //  all_grades_div.innerHTML += `<div>${grade}</div>`;
 //});
